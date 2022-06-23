@@ -1,6 +1,3 @@
-- 👋 bonjour, je suis  @Fromage-aop
-- 🌱 je suis actuellement en train d'apprendre le c ainsi que le java. 
--    c'est tout ce que je peux dire a propos de moi.
 
 
 <!---
